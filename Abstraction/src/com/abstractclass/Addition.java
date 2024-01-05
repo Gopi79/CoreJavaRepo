@@ -2,7 +2,6 @@ package com.abstractclass;
 
 public class Addition extends MyTest 
 {
-
 	@Override
 	public void calculate(int a, int b)
 	{
