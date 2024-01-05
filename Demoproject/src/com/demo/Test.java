@@ -6,7 +6,7 @@ public class Test
 	{
 		int a=10;
 		int b=20;
-		if(a<b)
+		if(a>b)
 		{
 			System.out.println("b");
 		}
